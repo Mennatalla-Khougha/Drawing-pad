@@ -58,6 +58,3 @@ function removeColor(ele){
     ele.style.backgroundColor = '#1d1d1d'
     ele.style.boxShadow ='0 0 2px #000'
 }
-
-//Create a new board when clear button is clicked
-const box = document.querySelectorAll('div.box')
